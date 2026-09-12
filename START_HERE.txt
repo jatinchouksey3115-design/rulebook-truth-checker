@@ -1,0 +1,24 @@
+RULEBOOK TRUTH CHECKER - START HERE
+
+IMPORTANT: Download the ZIP and EXTRACT it first. Do not try to run the ZIP itself.
+
+1. Open this extracted folder in VS Code or PyCharm.
+2. Open Terminal in this folder.
+3. Install packages:
+   pip install -r requirements.txt
+
+4. Start the web application:
+   python -m streamlit run app.py
+
+5. Open the browser page Streamlit gives you.
+
+6. Run the evaluation separately:
+   python evaluate.py
+
+Three demo questions are already available in the web app:
+- Normal answer
+- Contradiction
+- NO_ANSWER
+
+For the placement submission, upload the whole extracted folder to a PUBLIC GitHub repository.
+Then record the three states and the evaluation output in a short video.

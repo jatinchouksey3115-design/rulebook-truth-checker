@@ -1,0 +1,152 @@
+[
+  {
+    "id": "U-01",
+    "question": "What happens if I miss an end-term examination because I am attending my sister's wedding?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-02",
+    "question": "Can a student with a broken laptop get an extra 48 hours for a final project?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-03",
+    "question": "Does the university allow a fee deadline extension for students whose scholarship payment is delayed?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-04",
+    "question": "Can a student with 72% attendance take the exam if the course instructor personally agrees?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-05",
+    "question": "What happens if a student's bus is delayed and they arrive 25 minutes late to an examination?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-06",
+    "question": "Is a parent allowed to stay overnight in an undergraduate hostel room during a family visit?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-07",
+    "question": "Can a student replace a missed laboratory with an online simulation?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-08",
+    "question": "How many days of paid leave can a student take while completing an internship?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-09",
+    "question": "Does the university provide a laptop to students who cannot afford one?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-10",
+    "question": "Can a student use ChatGPT in an assignment if the lecturer does not mention AI tools at all?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-11",
+    "question": "What happens to a scholarship if a student's family income increases halfway through the year?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-12",
+    "question": "Can a student appeal a hostel room allocation decision?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-13",
+    "question": "Is there a grace period for library books borrowed during the examination week?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-14",
+    "question": "Can an international student register for an overload without department approval?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-15",
+    "question": "How many marks are deducted from a project submitted two days late?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-16",
+    "question": "Can a student postpone a laboratory assessment because of a family emergency?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-17",
+    "question": "Does medical leave automatically reduce the tuition fee for the affected semester?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-18",
+    "question": "Can a student graduate if one required course is replaced by a similar elective?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-19",
+    "question": "What happens if a fee payment is made by cheque on the deadline but clears three days later?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-20",
+    "question": "Can a student appeal a misconduct decision after the stated appeal deadline has passed?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-21",
+    "question": "Is attendance from an unofficial student club seminar counted toward course attendance?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-22",
+    "question": "Can a student change their project supervisor after the final project presentation?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-23",
+    "question": "Does the university reimburse travel costs for every approved internship?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-24",
+    "question": "Can a student bring a smartwatch into an examination if it is switched off?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  },
+  {
+    "id": "U-25",
+    "question": "Does the residence handbook allow cooking appliances in student bedrooms?",
+    "expected": "NO_ANSWER",
+    "gold_clauses": []
+  }
+]

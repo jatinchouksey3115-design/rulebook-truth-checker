@@ -1,0 +1,26 @@
+[
+  {
+    "id": "C-01-Q",
+    "question": "What attendance percentage is required for examination eligibility when a student has an approved medical absence?",
+    "expected": "CONTRADICTION",
+    "gold_clauses": [
+      "C-01"
+    ]
+  },
+  {
+    "id": "C-02-Q",
+    "question": "When is the undergraduate standard autumn tuition payment due?",
+    "expected": "CONTRADICTION",
+    "gold_clauses": [
+      "C-02"
+    ]
+  },
+  {
+    "id": "C-03-Q",
+    "question": "Can a final project be submitted after the deadline without prior approval?",
+    "expected": "CONTRADICTION",
+    "gold_clauses": [
+      "C-03"
+    ]
+  }
+]

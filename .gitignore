@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+evaluation_results.json
+.streamlit/
+.DS_Store

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A-01",
+    "question": "What attendance percentage is normally required to sit the end-term examination?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "75 percent in a course"
+    ]
+  },
+  {
+    "id": "A-02",
+    "question": "How should a student report an attendance record error?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "report an apparent attendance error"
+    ]
+  },
+  {
+    "id": "A-03",
+    "question": "What should a student do if they become unwell during an examination?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "inform the invigilator immediately"
+    ]
+  },
+  {
+    "id": "A-04",
+    "question": "What is the normal process for paying tuition fees?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "published fee notice"
+    ]
+  },
+  {
+    "id": "A-05",
+    "question": "What should a student do when returning from academic leave?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "complete the return process"
+    ]
+  },
+  {
+    "id": "A-06",
+    "question": "What does an academic appeal need to identify?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "identify the decision, date, grounds, and evidence"
+    ]
+  },
+  {
+    "id": "A-07",
+    "question": "What should students do with restricted electronic library resources?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "should not distribute restricted files"
+    ]
+  },
+  {
+    "id": "A-08",
+    "question": "What is required before beginning a project involving human participants?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "obtain any required ethics, safety, or data approvals"
+    ]
+  },
+  {
+    "id": "A-09",
+    "question": "What should a student do if they identify a clerical error in an assessment mark?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "clerical correction"
+    ]
+  },
+  {
+    "id": "A-10",
+    "question": "What should a student do when a hostel maintenance issue occurs?",
+    "expected": "ANSWER",
+    "gold_clauses": [],
+    "gold_phrases": [
+      "report maintenance issues through the designated system"
+    ]
+  }
+]
